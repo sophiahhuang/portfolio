@@ -1,8 +1,8 @@
 # Sophia's Portfolio 👩🏻‍🎨
 
-- About describes a sense of purpose
+- About describes a sense of purpose and interests
 - Blog posts share her learnings
-- Work highlights select projects
+- Work highlights projects
 
 # 🤖 Tech stack
 
