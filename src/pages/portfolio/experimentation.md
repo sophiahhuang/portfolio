@@ -1,6 +1,6 @@
 ---
 layout: ../../layout/ProjectMarkdownLayout.astro
-title: Experimentation
+title: Experimentation - AB Testing
 description: "PlayStation | Sr Product Manager"
 pubDate: 2023-09
 tags: ["experimentation", "pm", "gaming", "design", "abtesting"]
