@@ -1,14 +1,14 @@
 ---
 layout: ../../layout/ProjectMarkdownLayout.astro
-title: "MiniMeGo"
+title: AI Shopping Assistant - MiniMeGo
 pubDate: 2023-09-01
 description: "A journey on securing my smarthome."
 tags: ["AI", "ChatGPT", "B2C", "product"]
 ---
 
-# MiniMeGo
+# AI Shopping Assistant
 
-An trusted AI shopping tool to compare and buy with confidence
+MiniMeGo - An trusted AI shopping tool to compare and buy with confidence
 
 ### Vision
 
