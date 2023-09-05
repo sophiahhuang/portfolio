@@ -21,7 +21,7 @@ const { pageTitle, description, type } = Astro.props;
         basic: {
           title: description,
           type: type,
-          image: "/images/HomepageHeroBW.png",
+          image: "/images/profile_small4.png",
         },
         image: {
           alt: "An image of myself",
@@ -42,17 +42,7 @@ const { pageTitle, description, type } = Astro.props;
       <slot />
     </MainContainer>
     <ThemeSwitcher />
-    <script>
-      function hoverImage() {
-        document.getElementById("profileImage").src =
-          "/images/HomepageHeroBW.png";
-      }
 
-      function unhoverImage() {
-        document.getElementById("profileImage").src =
-          "/images/profile_small4.png";
-      }
-    </script>
     <style is:global>
       @tailwind base;
       @tailwind components;
