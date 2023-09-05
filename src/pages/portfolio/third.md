@@ -10,7 +10,7 @@ tags: ["personalization", "ai", "pm", "eCommerce", "checkout", "redesign"]
 
 ## Saks Fifth Ave | Sr Product Manager
 
-The vision is to
+The vision is to [TBD]
 
 <table>
 <tr>
@@ -35,13 +35,11 @@ Shopping behavior has evolved into showrooming and webrooming rapidly where onli
 
 ## Goal
 
-- The growing accessibility of (smartphone) technology offers the opportunity for **_virtual shopping experiences to be radically personalized and humanized_** by styling expertise of in-house brand managers
-
-Customers can make requests, get recommendations, browse, and purchase a wide range of high-end items from renowned designers and brands
+- The growing accessibility of (smartphone) technology offers the opportunity for **_virtual shopping experiences to be radically personalized and humanized_** by styling expertise of in-house brand managers. Customers can make requests, schedule appointments, get recommendations, browse, and purchase a wide range of high-end items from renowned designers and brands.
 
 ## Methodology
 
-[Link to details](https://drive.google.com/file/d/1PN2Fd9BGq0HbcKFfrPdsMsoID3RW8K2Y/view?usp=drive_link)
+[Link to details](https://drive.google.com/file/d/1RvWFFKJfu1I4NZCmr41kQZVqGL_4RQAl/view?usp=drive_link)
 
 ## Outcome
 
@@ -67,14 +65,5 @@ to the Executive Team in Ireland and USA.
 cross-pollinate learnings and best practices.
 ```
 
-### Homepage
+### Embed video [TBD]
 
-![Homepage](/images/ABTesting_Homepage.webp)
-
-### Create an Experiment
-
-![Create](/images/ABTesting_Create.webp)
-
-### View an Experiment Outcome
-
-![Dashboard](/images/ABTesting_Dashboard.webp)
