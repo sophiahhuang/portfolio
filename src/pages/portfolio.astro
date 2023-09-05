@@ -1,0 +1,77 @@
+---
+import ProjectsGrid from "@components/ProjectsGrid.astro";
+import Layout from "@layout/Layout.astro";
+import SelectableTag from "@components/SelectableTag.astro";
+
+const allprojects = await Astro.glob("./portfolio/*.md");
+
+const techprojects = [
+  {
+    name: "AI Assistant",
+    description:
+      "Founder | A Trusted AI shopping tool that allows user to easily compare and buy with confidence.",
+    link: "./portfolio/first",
+  },
+  {
+    name: "AB Testing",
+    description:
+      "Sr PM @ PlayStation | An internal experimentation platform that enables decision-makers to measure new releases.",
+    link: "./portfolio/second",
+  },
+  {
+    name: "Personalization",
+    description:
+      "Sr PM @ Saks Fifth Ave | An eCommerce checkout and personalized shopping service via iOS and web app.",
+    link: "./portfolio/third",
+  },
+];
+
+const artprojects = [
+  {
+    name: "AI Assistant",
+    description:
+      "A virtual assistant that uses artificial intelligence to help users manage their daily tasks and schedule.",
+    link: "smartyaiassistant.dev",
+  },
+  {
+    name: "VirtualEvent",
+    description:
+      "A platform for hosting and attending virtual events, conferences, and meetings. It features a range of tools for networking, collaboration, and engagement.",
+    link: "github.com",
+  },
+  {
+    name: "CloudBoost",
+    description:
+      "A cloud-based platform that helps businesses optimize and accelerate their website performance.",
+    link: "cloudboost.tech",
+  },
+];
+---
+
+<Layout
+  pageTitle="Portfolio"
+  description="Things I’ve created to make the world around me a little different."
+  type="content"
+>
+  <main class="px-8 pt-16 mx-auto max-w-6xl sm:pt-24 lg:px-16">
+    <div class="flex flex-col mt-4 space-y-8">
+      <div class="flex flex-col space-y-4">
+        <h1
+          class="text-4xl font-bold tracking-tighter sm:text-5xl max-w-[25ch]"
+        >
+          Software & AI Technology 2011-Now
+        </h1>
+        <p class="text-primary-300 max-w-[65ch]">
+          From contemporary art to software development, I am interested in the
+          cross-functional intersection where creativity and technology meet for
+          business and social impact.
+        </p>
+      </div>
+      <ProjectsGrid projects={techprojects} />
+      <h1 class="text-4xl font-bold tracking-tighter sm:text-5xl max-w-[25ch]">
+        Contemporary Art 2008-2011
+      </h1>
+      <ProjectsGrid projects={artprojects} />
+    </div>
+  </main>
+</Layout>

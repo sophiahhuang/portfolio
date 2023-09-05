@@ -1,0 +1,161 @@
+---
+import About from "src/pages/about.astro";
+import Layout from "@layout/Layout.astro";
+---
+
+<!-- note: next time use CSS grid directly, don't mess around with relative positions -->
+<div class="pt-16 sm:pb-12 md:pb-4 lg:pb-16">
+  <div
+    class="mx-auto mt-8 max-w-7xl lg:px-8 lg:bg-transparent bg-contentbackground"
+  >
+    <div class="lg:grid lg:grid-cols-12">
+      <div
+        class="z-10 lg:col-span-4 lg:col-start-1 lg:row-start-1 lg:py-16 lg:bg-transparent"
+      >
+        <div class="px-4 mx-auto max-w-xs sm:px-6 md:max-w-md lg:p-0">
+          <img
+            id="profileImage"
+            decoding="async"
+            loading="lazy"
+            class="object-cover object-center w-full max-w-md rounded-3xl shadow-2xl -rotate-3 aspect-[1/1]"
+            src="/images/profile_small4.png"
+            alt="Image of myself"
+          />
+        </div>
+      </div>
+      <script>
+        const profileImage = document.getElementById("profileImage");
+
+        profileImage.addEventListener("mouseover", () => {
+          profileImage.src = "/images/profile_small7.png";
+        });
+
+        profileImage.addEventListener("mouseout", () => {
+          profileImage.src = "/images/profile_small4.png";
+        });
+      </script>
+      <div
+        class="relative rounded-3xl lg:grid lg:grid-cols-10 lg:col-span-10 lg:col-start-3 lg:row-start-1 lg:items-center lg:bg-contentbackground"
+      >
+        <div
+          class="hidden overflow-hidden absolute inset-0 rounded-3xl pointer-events-none lg:block"
+          aria-hidden="true"
+        >
+          <svg
+            class="absolute bottom-full left-full opacity-20 transform -translate-x-2/3 translate-y-1/3 xl:top-0 xl:bottom-auto xl:translate-y-0"
+            width="404"
+            height="384"
+            fill="none"
+            viewBox="0 0 404 384"
+            aria-hidden="true"
+          >
+            <!-- ... 
+            <defs>
+              <pattern
+                id="64e643ad-2176-4f86-b3d7-f2c5da3b6a6d"
+                x="0"
+                y="0"
+                width="20"
+                height="20"
+                patternUnits="userSpaceOnUse"
+              >
+                <rect
+                  x="0"
+                  y="0"
+                  width="4"
+                  height="4"
+                  class="text-accent-500"
+                  fill="currentColor"></rect>
+              </pattern>
+            </defs>
+            <rect
+              width="404"
+              height="384"
+              fill="url(#64e643ad-2176-4f86-b3d7-f2c5da3b6a6d)"></rect>
+            -->
+          </svg>
+          <svg
+            class="absolute top-full opacity-40 transform -translate-x-1/3 -translate-y-1/3 xl:-translate-y-1/2"
+            width="404"
+            height="384"
+            fill="none"
+            viewBox="0 0 404 384"
+            aria-hidden="true"
+          >
+            <!-- ... 
+            <defs>
+              <pattern
+                id="64e643ad-2176-4f86-b3d7-f2c5da3b6a6d"
+                x="0"
+                y="0"
+                width="20"
+                height="20"
+                patternUnits="userSpaceOnUse"
+              >
+                <rect
+                  x="0"
+                  y="0"
+                  width="4"
+                  height="4"
+                  class="text-accent-500"
+                  fill="currentColor"></rect>
+              </pattern>
+            </defs>
+            <rect
+              width="404"
+              height="384"
+              fill="url(#64e643ad-2176-4f86-b3d7-f2c5da3b6a6d)"></rect>
+            -->
+          </svg>
+        </div>
+
+        <div
+          class="py-12 mx-auto space-y-6 sm:py-16 sm:max-w-3xl lg:col-span-7 lg:col-start-4 lg:max-w-none"
+        >
+          <h1
+            class="text-4xl font-bold tracking-tighter sm:text-5xl"
+            id="about-heading"
+          >
+            Hi! I am Sophia. 👩🏻‍🎨 <br />
+            AI Product Builder. Ex-Art Curator.
+          </h1>
+          <p class="text-lg text-primary-300 md:text-primary-100">
+            I loved stories as a kid—especially the ones that surprised or
+            painted vivid pictures in my mind. Now, I tell stories through
+            software. Using AI, data, and design, I bring those experiences
+            alive.
+            <br /><br />
+            I was a contemporary art curator 2008-2011. I had been PM at
+            <a
+              class="mx-auto text-lg underline transition duration-200 decoration-2 decoration-accent-300 text-primary-100 hover:decoration-accent-300"
+              href="https://drive.google.com/file/d/0BzfGepjG2_xLWkQtVHBGQmJrSEFiMUVQWTZFbVhLLWxuV0E0/view?usp=sharing&resourcekey=0-pKE-rkCvQfwJ7rOEG6NWnA"
+              target="_blank"
+            >
+              CheapOair, Saks Fifth Ave, and PlayStation</a
+            >, leading multiple 0-1 and 1-100 million projects. I'm building
+            native AI product in the creative space.
+            <br /><br />
+            <a
+              href="mailto:sophiahhuang@gmail.com?subject=Sophia, let's chat!&body=Hi Sophia,%0D%0A%0D%0AI'm reaching out from your website to..."
+              target="_blank"
+            >
+              <button
+                class="inline-flex overflow-hidden relative justify-center items-center p-0.5 mr-2 mb-2 text-sm bg-transparent rounded-3xl focus:ring-2 focus:ring-white focus:outline-none group"
+              >
+                <div
+                  class="absolute inset-0 bg-gradient-to-br from-white to-teal-300 rounded-3xl"
+                >
+                </div>
+                <span
+                  class="relative z-10 py-2.5 px-5 text-black bg-transparent rounded-3xl transition-all duration-75 ease-in group-hover:text-teal-500"
+                >
+                  Contact me
+                </span>
+              </button>
+            </a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
