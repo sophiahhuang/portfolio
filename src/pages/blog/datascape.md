@@ -9,4 +9,3 @@ tags: ["product", "development", "business"]
 # Sausage Maker
 
 **Sausage Making** - A raw lens
-
