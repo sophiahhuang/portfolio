@@ -15,8 +15,7 @@ const routes = ["About", "Blog", "Portfolio"];
             <a
               rel="prefetch"
               class="block py-2 px-3 font-semibold tracking-tighter transition hover:text-accent-400 active:text-accent-400"
-              href={route === "Blog" ? "/" : `/${route.toLowerCase()}`}
-            >
+              href={route === "About" ? "/about" : route === "Blog" ? "/" : `/${route.toLowerCase()}`}            >
               {route}
             </a>
           </li>
