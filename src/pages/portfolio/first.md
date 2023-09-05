@@ -49,10 +49,19 @@ An trusted AI shopping tool to compare and buy with confidence
 
 1. Adjust recommendations for you over time to get smarter
 
-Customer Flow
-Search and comparison shop
-2a. Proceed to purchase online
-2b. Call
-2c. Go to the physical store
-Save for purchase later
-Notify when prices drop or discount appears
+### Customer Flow
+
+- Search and comparison shop
+  2a. Proceed to purchase online
+  2b. Call
+  2c. Go to the physical store
+- Save for purchase later
+- Notify when prices drop or discount appears
+
+### Search
+
+![Search](/images/MiniMeGo_Default.webp)
+
+### View Price Summary
+
+![View](/images/ProtfolioCard_MiniMeGo.webp)

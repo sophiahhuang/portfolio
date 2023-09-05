@@ -14,4 +14,3 @@ Icons - Iconoir
 Code Formatting - Rustwind & Prettier (`pnpm format`)
 Deployment - Vercel
 Illustrations & Content - Midjourney & ChatGPT
-

@@ -1,36 +1,80 @@
 ---
 layout: ../../layout/ProjectMarkdownLayout.astro
-title: "Introducing DataScape: Data analysis tool"
-description: "A data visualization and analysis tool that allows users to easily explore and understand large datasets."
-pubDate: 2022-12-12
-tags: ["web", "sqlite", "python"]
+title: Personalization
+description: "Saks Fifth Ave | Sr Product Manager"
+pubDate: 2023-09
+tags: ["personalization", "ai", "pm", "eCommerce", "checkout", "redesign"]
 ---
 
-# Datascape
+# Personalization
 
-**DataScape** - A powerful data visualization and analysis tool
+## Saks Fifth Ave | Sr Product Manager
 
-DataScape is a user-friendly tool that enables individuals and businesses to easily explore and understand large datasets. With its intuitive interface and powerful features, DataScape is quickly becoming the go-to choice for data analysts and professionals alike.
+The vision is to
 
-Some of the key features of DataScape include:
+<table>
+<tr>
+    <th>Role</th>
+    <th>Platform</th>
+    <th>Time</th>
+</tr>
+<tr>
+    <td>Product Vision & Roadmapping, User Experience Design, Product Delivery, Cross-functional Team, Technical Specifications, Data Science, Stakeholder Management</td>
+    <td>Desktop web, iOS & iMessage app</td>
+    <td>2016</td>
+</tr>
+</table>
 
-- **Interactive visualizations**: DataScape allows users to create a variety of interactive charts and graphs to better understand the trends and patterns in their data.
-- **Real-time data analysis**: Users can instantly filter, sort, and aggregate their data to uncover valuable insights.
-- **Collaboration tools**: DataScape includes features such as shared projects and commenting to facilitate collaboration among team members.
+## Overview
 
-Here is a code sample in Python to demonstrate how to connect to a dataset and create a basic line chart:
+Saks Fifth Avenue is a subsidiary of the Hudson's Bay Company (HBC), a Canadian retail conglomerate. Saks Fifth Ave is a luxury department store chain known for its high-end fashion, accessories, and beauty products. It offers a curated selection of upscale brands and designer goods to affluent shoppers.
 
-```python
-import pandas as pd
-import datascape as ds
+## Problem
 
-# Connect to dataset
-df = pd.read_csv("https://mydataset.com/data.csv")
+Shopping behavior has evolved into showrooming and webrooming rapidly where online purchases are growing while in-store transactions are declining. Retail store associates are contending with an shrinking pie and idleness increasingly. Store space
 
-# Create line chart
-chart = ds.LineChart()
-chart.plot(df, x="Date", y="Sales")
-chart.show()
+## Goal
+
+- The growing accessibility of (smartphone) technology offers the opportunity for **_virtual shopping experiences to be radically personalized and humanized_** by styling expertise of in-house brand managers
+
+Customers can make requests, get recommendations, browse, and purchase a wide range of high-end items from renowned designers and brands
+
+## Methodology
+
+[Link to details](https://drive.google.com/file/d/1PN2Fd9BGq0HbcKFfrPdsMsoID3RW8K2Y/view?usp=drive_link)
+
+## Outcome
+
+> Spearheaded ecommerce checkout and personalization shopping service for Saks Fifth Ave & Saks Off Fifth, reaching 20M users.
+
+```
+1. Improved conversion rate by 6% and $7M+ revenue.
+
+2. Led vision, strategy, and software development for personal shopper service,
+grew revenue to $1.35M.
+
+3. Shipped recommender system to monetize traffic and merchandise mix models
+ to improve relevance and purchase intent.
+
+4. Drafting and editing iterations of user testing, wireframes, and architecture
+for final customer-facing MVP. Guided marketing content, sales enablement and
+press release (PR). Go-to-market (GTM) strategy and product launch in 8 cities.
+
+5. Establish regular stakeholder, line of business (LOB), and operations updates
+to the Executive Team in Ireland and USA.
+
+6. Partnered with SVP of Product to shape culture: hired and coached PMs to
+cross-pollinate learnings and best practices.
 ```
 
-Whether you are a data novice or a seasoned pro, DataScape has something to offer. Give it a try and see how it can help you make sense of your data.
+### Homepage
+
+![Homepage](/images/ABTesting_Homepage.webp)
+
+### Create an Experiment
+
+![Create](/images/ABTesting_Create.webp)
+
+### View an Experiment Outcome
+
+![Dashboard](/images/ABTesting_Dashboard.webp)

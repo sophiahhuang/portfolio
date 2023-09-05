@@ -56,8 +56,19 @@ KPI
 
 3. Reduced operational overhead of experiment analysis from 4 weeks to daily
 with standardized metrics
+
+4. Evangelize via product reviews, demos, and communications to leadership
+and business leads.
 ```
 
+### Homepage
+
 ![Homepage](/images/ABTesting_Homepage.webp)
+
+### Create an Experiment
+
 ![Create](/images/ABTesting_Create.webp)
+
+### View an Experiment Outcome
+
 ![Dashboard](/images/ABTesting_Dashboard.webp)
