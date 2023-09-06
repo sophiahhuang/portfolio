@@ -39,6 +39,7 @@ A year after the launch of PlayStation 5 console, these problems remain to **del
 - Iterative, owner mindset
 
 ## Methodology
+
 ### Homepage
 
 ![Homepage](/images/ABTesting_Homepage.webp)
