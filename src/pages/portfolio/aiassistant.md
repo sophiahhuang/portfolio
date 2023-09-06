@@ -10,20 +10,28 @@ tags: ["AI", "ChatGPT", "B2C", "product"]
 
 MiniMeGo - An trusted AI shopping tool to compare and buy with confidence
 
-### Vision
+## Vision
 
 > An autonomous shopping agent to buy and ship goods to your door
 
-### Customer Value Proposition
+## Customer Value Proposition
 
 - Time well spent
 - Make well-informed decision from data
 - Personal to you
 - Automate checkout and shipping tasks
 
-### Feature Requirements
+## Feature Requirements
 
-#### 1.0 Features -
+### 1.0 Features -
+
+### Search
+
+![Search](/images/MiniMeGo_Default.webp)
+
+### View Price Summary
+
+![View](/images/ProtfolioCard_MiniMeGo.webp)
 
 1. Search functionality by item
 2. Summary of price comparisons and research to take action
@@ -38,18 +46,18 @@ MiniMeGo - An trusted AI shopping tool to compare and buy with confidence
 
 - Sign up to real-time alert via phone and email
 
-#### 2.0 Features
+### 2.0 Features
 
 1. Save your preferences to automate checkout and ship
 
 - Autofill 1 personal contact and delivery address
 - Autofill 1 payment method
 
-#### 3.0 Features
+### 3.0 Features
 
 1. Adjust recommendations for you over time to get smarter
 
-### Customer Flow
+## Customer Flow
 
 - Search and comparison shop
   2a. Proceed to purchase online
@@ -57,11 +65,3 @@ MiniMeGo - An trusted AI shopping tool to compare and buy with confidence
   2c. Go to the physical store
 - Save for purchase later
 - Notify when prices drop or discount appears
-
-### Search
-
-![Search](/images/MiniMeGo_Default.webp)
-
-### View Price Summary
-
-![View](/images/ProtfolioCard_MiniMeGo.webp)

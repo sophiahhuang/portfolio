@@ -1,7 +1,7 @@
 ---
 import ProjectsGrid from "@components/ProjectsGrid.astro";
 import Layout from "@layout/Layout.astro";
-import SelectableTag from "@components/SelectableTag.astro";
+// import SelectableTag from "@components/SelectableTag.astro";
 
 const allprojects = await Astro.glob("./portfolio/*.md");
 
@@ -28,16 +28,16 @@ const techprojects = [
 
 const artprojects = [
   {
-    name: "Art 1",
+    name: "Public Art",
     description:
-      "A virtual assistant that uses artificial intelligence to help users manage their daily tasks and schedule.",
-    link: "smartyaiassistant.dev",
+      "Public art transforms common spaces into open-air galleries for all.",
+    link: "./portfolio/publicart",
   },
   {
-    name: "Art 2",
+    name: "Artists",
     description:
-      "A platform for hosting and attending virtual events, conferences, and meetings. It features a range of tools for networking, collaboration, and engagement.",
-    link: "github.com",
+      "A showcase of photos and publications from art shows I've shaped with artists.",
+    link: "./portfolio/artists",
   },
   {
     name: "Art 3",

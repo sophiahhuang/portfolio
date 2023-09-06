@@ -39,6 +39,17 @@ A year after the launch of PlayStation 5 console, these problems remain to **del
 - Iterative, owner mindset
 
 ## Methodology
+### Homepage
+
+![Homepage](/images/ABTesting_Homepage.webp)
+
+### Create an Experiment
+
+![Create](/images/ABTesting_Create.webp)
+
+### View an Experiment Outcome
+
+![Dashboard](/images/ABTesting_Dashboard.webp)
 
 [Link to details](https://drive.google.com/file/d/1PN2Fd9BGq0HbcKFfrPdsMsoID3RW8K2Y/view?usp=drive_link)
 
@@ -60,15 +71,3 @@ with standardized metrics
 4. Evangelize via product reviews, demos, and communications to leadership
 and business leads.
 ```
-
-### Homepage
-
-![Homepage](/images/ABTesting_Homepage.webp)
-
-### Create an Experiment
-
-![Create](/images/ABTesting_Create.webp)
-
-### View an Experiment Outcome
-
-![Dashboard](/images/ABTesting_Dashboard.webp)
