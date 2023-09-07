@@ -2,7 +2,7 @@
 
 - About describes a sense of purpose and interests
 - Blog posts share her learnings
-- Work highlights projects
+- Portfolio shows timeline of art and tech career highlights
 
 # 🤖 Tech stack
 
