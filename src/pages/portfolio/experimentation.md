@@ -40,7 +40,7 @@ A year after the launch of PlayStation 5 console, these problems remain to **del
 
 ## Methodology
 
-### Homepage
+<!-- ### Homepage
 
 ![Homepage](/images/ABTesting_Homepage.webp)
 
@@ -50,7 +50,7 @@ A year after the launch of PlayStation 5 console, these problems remain to **del
 
 ### View an Experiment Outcome
 
-![Dashboard](/images/ABTesting_Dashboard.webp)
+![Dashboard](/images/ABTesting_Dashboard.webp) -->
 
 [Link to details](https://drive.google.com/file/d/1PN2Fd9BGq0HbcKFfrPdsMsoID3RW8K2Y/view?usp=drive_link)
 
