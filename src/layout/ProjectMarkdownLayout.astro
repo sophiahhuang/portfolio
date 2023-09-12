@@ -1,10 +1,9 @@
 ---
 import Layout from "./Layout.astro";
 const { frontmatter } = Astro.props;
-import { Tweet } from '@astro-community/astro-embed-twitter';
-import { YouTube } from '@astro-community/astro-embed-youtube';
+import { Tweet } from "@astro-community/astro-embed-twitter";
+import { YouTube } from "@astro-community/astro-embed-youtube";
 ---
-
 
 <Layout
   pageTitle={frontmatter.title}
@@ -41,7 +40,7 @@ import { YouTube } from '@astro-community/astro-embed-youtube';
       prose-video:mx-auto
     prose-p:text-primary-300`}
     >
-    {frontmatter.videoID && <YouTube id={frontmatter.videoID} />}
+      {frontmatter.videoID && <YouTube id={frontmatter.videoID} />}
       <slot />
     </article>
   </main>

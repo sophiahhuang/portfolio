@@ -41,10 +41,12 @@ Leverage styling expertise of in-house brand managers to radically personalize a
 ## Methodology
 
 ### Features
+
 Customers can:
+
 - make requests & matched with a Saks personal stylist nearby
 - schedule in-store or virtual appointments
-- get personal recommendations 
+- get personal recommendations
 - purchase from exclusive designers and brands
 
 [Link to details](https://drive.google.com/file/d/1RvWFFKJfu1I4NZCmr41kQZVqGL_4RQAl/view?usp=drive_link)
