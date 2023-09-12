@@ -1,6 +1,8 @@
 ---
 import Layout from "./Layout.astro";
 const { frontmatter } = Astro.props;
+import { Tweet } from '@astro-community/astro-embed-twitter';
+import { YouTube } from '@astro-community/astro-embed-youtube';
 ---
 
 <Layout
@@ -14,6 +16,8 @@ const { frontmatter } = Astro.props;
       class="mx-auto text-lg underline transition duration-200 decoration-2 decoration-accent-300 text-primary-100 hover:decoration-accent-300"
       >‹ Back to blog</a
     >
+    <!-- Embed Tweet if tweetURL is present -->
+    {frontmatter.tweetURL && <Tweet id={frontmatter.tweetURL} />}
     <article
       class={`mx-auto 
       mt-8 prose 

@@ -13,6 +13,9 @@
     "format": "rustywind --write . && pnpm prettier --plugin-search-dir=. --write ."
   },
   "dependencies": {
+    "@astro-community/astro-embed-twitter": "^0.5.1",
+    "@astro-community/astro-embed-youtube": "^0.4.1",
+    "@astrojs/mdx": "^1.0.3",
     "@astrojs/prefetch": "^0.1.1",
     "@astrojs/rss": "^2.0.0",
     "@astrojs/sitemap": "^1.0.0",
@@ -22,7 +25,6 @@
     "@tailwindcss/line-clamp": "^0.4.2",
     "astro": "^3.0.12",
     "astro-color-scheme": "^1.0.1",
-    "astro-embed": "^0.5.1",
     "astro-seo": "^0.6.1",
     "reading-time": "^1.5.0",
     "tailwind-gradient-mask-image": "^1.0.0",

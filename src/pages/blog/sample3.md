@@ -1,6 +1,6 @@
 ---
 layout: ../../layout/MarkdownLayout.astro
-title: "My Smarthome"
+title: "Sample 3"
 pubDate: 2022-07-01
 description: "A journey on securing my smarthome."
 tags: ["astro", "blogging", "learning in public"]

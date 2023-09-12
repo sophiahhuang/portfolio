@@ -4,13 +4,14 @@ title: Personalization
 description: "Saks Fifth Ave | Sr Product Manager"
 pubDate: 2023-09
 tags: ["personalization", "ai", "pm", "eCommerce", "checkout", "redesign"]
+videoID: "https://youtu.be/jZz3-Ein9v0"
 ---
 
 # Personalization
 
 ## Saks Fifth Ave | Sr Product Manager
 
-The vision is to [TBD]
+I led product development for two focus areas. One is the customer-facing path to purchase on the web and mobile web to grow eCommerce revenue and capabilties for Saks Fifth Ave & Saks Off Fifth, including search & relevance, recommendations, filter/sorting, and checkout. Second is personalized shopping services on iMessage and iOS app. The vision was to deliver one-of-a-kind digital shopping experiences, featuring an expertly curated assortment of fashion and highly personalized customer service.
 
 <table>
 <tr>
@@ -31,13 +32,20 @@ Saks Fifth Avenue is a subsidiary of the Hudson's Bay Company (HBC), a Canadian 
 
 ## Problem
 
-Shopping behavior has evolved into showrooming and webrooming rapidly where online purchases are growing while in-store transactions are declining. Retail store associates are contending with an shrinking pie and idleness increasingly. Store space
+Shopping behavior has evolved into showrooming and webrooming rapidly where online purchases are growing while in-store transactions are declining. Retail store associates are contending with an shrinking pie and idleness increasingly. Physical storefronts are no longer the first touchpoint where shoppers start their buying journey. How about we redefine store spaces as experiential spaces where in-person appointments, wardrobe consulting, and curated try-on's happen?
 
 ## Goal
 
-- The growing accessibility of (smartphone) technology offers the opportunity for **_virtual shopping experiences to be radically personalized and humanized_** by styling expertise of in-house brand managers. Customers can make requests, schedule appointments, get recommendations, browse, and purchase a wide range of high-end items from renowned designers and brands.
+Leverage styling expertise of in-house brand managers to radically personalize and humanize **_shopping experiences_** and scale personalization digitally
 
 ## Methodology
+
+### Features
+Customers can:
+- make requests & matched with a Saks personal stylist nearby
+- schedule in-store or virtual appointments
+- get personal recommendations 
+- purchase from exclusive designers and brands
 
 [Link to details](https://drive.google.com/file/d/1RvWFFKJfu1I4NZCmr41kQZVqGL_4RQAl/view?usp=drive_link)
 
@@ -64,5 +72,3 @@ to the Executive Team in Ireland and USA.
 6. Partnered with SVP of Product to shape culture: hired and coached PMs to
 cross-pollinate learnings and best practices.
 ```
-
-### Embed video [TBD]
