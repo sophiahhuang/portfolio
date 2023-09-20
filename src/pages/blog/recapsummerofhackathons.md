@@ -38,7 +38,7 @@ tweetURL: "https://x.com/AlexReibman/status/1683010519048011777?s=20"
     <th>Time</th>
 </tr>
 <tr>
-    <td>LLM</td>
+    <td>LLM</td>git add .
     <td>Plutus</td>
     <td>Anthropic, Lablab.ai</td>
     <td>Anthropic Claude 1.0, LangChain, Whisper, Streamlit</td>
