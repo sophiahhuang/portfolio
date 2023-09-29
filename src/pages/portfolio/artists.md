@@ -10,7 +10,7 @@ tags: ["art", "curator", "photograph", "publication"]
 
 ## Nou Gallery | Art Curator
 
-I scout emerging contemporary artists to collaborate on art projects together, often leading to their career launches.
+I scout emerging contemporary artists to collaborate on art projects together, often leading to their career launches. 
 
 <table>
 <tr>
@@ -25,6 +25,6 @@ I scout emerging contemporary artists to collaborate on art projects together, o
 </tr>
 </table>
 
-### Booklet
+### Exhibition Catalog
 
 [Link to details](https://drive.google.com/file/d/1g2m4kS8Wx3Za-4rXVMgQZPeC6gLIh46P/view?usp=drive_link)

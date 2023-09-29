@@ -14,7 +14,12 @@ import react from "@astrojs/react";
 // https://astro.build/config
 export default defineConfig({
   site: "https://super-solstice.vercel.app/",
-  integrations: [tailwind(), sitemap(), prefetch({
-    throttle: 3
-  }), react()]
+  integrations: [
+    tailwind(),
+    sitemap(),
+    prefetch({
+      throttle: 3,
+    }),
+    react(),
+  ],
 });

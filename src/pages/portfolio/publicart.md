@@ -10,7 +10,7 @@ tags: ["art", "curator", "public space"]
 
 ## Nou Gallery | Art Curator
 
-I partnered with **37 artists** represented by the [art gallery](http://www.nougallery.com/) to create and install artworks in accessible community spaces with the goal to enrich cultural dialogue, elevate public spaces, and foster community engagement.
+I partnered with artists represented by the [art gallery](http://www.nougallery.com/) to create and install site-specific artworks with the goal to enrich cultural dialogue, elevate public spaces, and foster community engagement. 
 
 <table>
 <tr>
@@ -25,6 +25,20 @@ I partnered with **37 artists** represented by the [art gallery](http://www.noug
 </tr>
 </table>
 
+### 37 Artists @ Nou Gallery
+
+- [Nou Gallery](http://www.nougallery.com/)
+
+### 14+ Solo and Group Exihibitions
+
+-  **From 0 to 1** : End-to-end scouting, research, production, and opening of art shows
+
+### 1 Traveling Exhibition @ 3 Public Museums
+
+- [National Art Museum of Beijing](http://www.namoc.org/en/)
+- [Shanghai Art Museum](https://www.sh-artmuseum.org.cn)
+- [National Taiwan Museum of Fine Arts](https://www.ntmofa.gov.tw/)
+
 ### 10 Art Fairs
 
 - 6 @ Taipei, including Taipei Biennial
@@ -33,7 +47,6 @@ I partnered with **37 artists** represented by the [art gallery](http://www.noug
 - 1 @ Shanghai
 
 [Link to details](https://drive.google.com/file/d/1RwilMN-DHIq_hu2lfDfWjnxylmC4YMQC/view?usp=drive_link)
-
 
 ### Photos
 
