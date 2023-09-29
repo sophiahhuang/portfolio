@@ -10,7 +10,7 @@ tags: ["art", "curator", "public space"]
 
 ## Nou Gallery | Art Curator
 
-I partnered with various artists represented by the gallery to create and install artworks in accessible community spaces with the goal to enrich cultural dialogue, elevate public spaces, and foster community engagement.
+I partnered with **37 artists** represented by the [art gallery](http://www.nougallery.com/) to create and install artworks in accessible community spaces with the goal to enrich cultural dialogue, elevate public spaces, and foster community engagement.
 
 <table>
 <tr>
@@ -25,6 +25,16 @@ I partnered with various artists represented by the gallery to create and instal
 </tr>
 </table>
 
+### 10 Art Fairs
+
+- 6 @ Taipei, including Taipei Biennial
+- 2 @ Singapore  
+- 1 @ Hong Kong
+- 1 @ Shanghai
+
+[Link to details](https://drive.google.com/file/d/1RwilMN-DHIq_hu2lfDfWjnxylmC4YMQC/view?usp=drive_link)
+
+
 ### Photos
 
 Katsumi Hayakawa @LEALEA GARDEN HOTEL TAIPEI
@@ -33,5 +43,3 @@ Katsumi Hayakawa @LEALEA GARDEN HOTEL TAIPEI
 ![KH3](/images/KH3.webp)
 ![KH4](/images/KH4.webp)
 ![KH5](/images/KH5.webp)
-![KH6](/images/KH6.webp)
-![KH7](/images/KH7.webp)
