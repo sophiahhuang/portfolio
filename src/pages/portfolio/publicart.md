@@ -10,7 +10,7 @@ tags: ["art", "curator", "public space"]
 
 ## Nou Gallery | Art Curator
 
-I partnered with artists represented by the [art gallery](http://www.nougallery.com/) to create and install site-specific artworks with the goal to enrich cultural dialogue, elevate public spaces, and foster community engagement.
+I partnered with represented artists to create and install site-specific artworks with the goal to enrich cultural dialogue, elevate public spaces, and foster community engagement.
 
 <table>
 <tr>
