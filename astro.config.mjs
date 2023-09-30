@@ -12,7 +12,7 @@ import prefetch from "@astrojs/prefetch";
 import react from "@astrojs/react";
 
 // https://code.juliancataldo.com/component/astro-diagram/#doc
-import remarkMermaid from 'astro-diagram/remark-mermaid';
+import remarkMermaid from "astro-diagram/remark-mermaid";
 
 // https://astro.build/config
 export default defineConfig({
@@ -26,8 +26,6 @@ export default defineConfig({
     react(),
   ],
   markdown: {
-    remarkPlugins: [
-      remarkMermaid
-    ],
+    remarkPlugins: [remarkMermaid],
   },
 });
