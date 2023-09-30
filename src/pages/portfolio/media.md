@@ -3,7 +3,7 @@ layout: ../../layout/ProjectMarkdownLayout.astro
 title: "Media"
 pubDate: 2023-09
 description: "Curator | A collection of press and media coverage."
-tags: ["art", "curator", "media", "press coverage" , "archive"]
+tags: ["art", "curator", "media", "press coverage", "archive"]
 ---
 
 # Media & Press Coverage
@@ -32,6 +32,3 @@ Highlights
 - [Instagram](https://www.instagram.com/nou_gallery/)
 
 ### National TV Broadcasting
-
-
-

@@ -11,6 +11,9 @@ import prefetch from "@astrojs/prefetch";
 // https://astro.build/config
 import react from "@astrojs/react";
 
+// https://code.juliancataldo.com/component/astro-diagram/#doc
+import remarkMermaid from 'astro-diagram/remark-mermaid';
+
 // https://astro.build/config
 export default defineConfig({
   site: "https://super-solstice.vercel.app/",
@@ -22,4 +25,9 @@ export default defineConfig({
     }),
     react(),
   ],
+  markdown: {
+    remarkPlugins: [
+      remarkMermaid
+    ],
+  },
 });
