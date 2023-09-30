@@ -19,9 +19,9 @@ I partnered with represented artists to create and install site-specific artwork
     <th>Time</th>
 </tr>
 <tr>
-    <td>Art Research, Studio Visits, Cross-functional Production, Art Administration</td>
+    <td>Art Research, Studio Visits, Cross-functional Production, Arts Administration</td>
     <td>Exhibitions, Sales, Installations, Print Advertising, Social Media Marketing</td>
-    <td>2008-2011</td>
+    <td>2008-2011, Ongoing Consultative Basis</td>
 </tr>
 </table>
 
