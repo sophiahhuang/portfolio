@@ -5,6 +5,7 @@ description: "Actionable solutions to common challenges of a/b testing culture, 
 pubDate: 2023-10-17
 tags: ["abtesting", "growthhack", "publictalk", "community"]
 ---
+
 # Experimental Growth's 3 Big Roadblocks
 
 ## The Triple ‘R’ Challenge of A/B Testing Culture: Resistance, Reality, and Resources
@@ -21,4 +22,5 @@ tags: ["abtesting", "growthhack", "publictalk", "community"]
 
 🔗 [Link to full presentation - you can comment on specific slides.](https://docs.google.com/presentation/d/1b7-y1CYRo9TOA0BxgSe_-2uI1U9BDZNcwE3HsNTyyW0/edit?usp=sharing)
 
-
+![Panel](/images/Panel.webp)
+![SophiaTalk_Code](/images/SophiaTalk_Code.webp)
