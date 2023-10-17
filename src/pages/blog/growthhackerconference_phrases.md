@@ -6,7 +6,7 @@ pubDate: 2023-10-17
 tags: ["abtesting", "growthhack", "publictalk", "community"]
 ---
 
-# (BONUS) GrowthHacker Conference 2023 - Shaping AB Testing Culture with Key Phrases
+# (BONUS) Shaping AB Testing Culture with Key Phrases
 
 🙋🏻‍♀️ Hello!
 
