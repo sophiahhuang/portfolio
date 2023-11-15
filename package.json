@@ -27,6 +27,7 @@
     "@tailwindcss/line-clamp": "^0.4.2",
     "@types/react": "^18.2.22",
     "@types/react-dom": "^18.2.7",
+    "@vercel/analytics": "^1.1.1",
     "astro": "^3.0.12",
     "astro-color-scheme": "^1.0.1",
     "astro-diagram": "^0.7.0",
