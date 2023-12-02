@@ -1,7 +1,7 @@
 ---
 layout: ../../layout/MarkdownLayout.astro
-title: "2023 Summer Recap of Hackathons"
-description: "Learnings from 3 Hackathons"
+title: "2023 Summer Recap of GenAI Hackathons"
+description: "Learnings from 3 GenAI Hackathons"
 pubDate: 2023-09-11
 tags:
   [
@@ -15,7 +15,7 @@ tags:
 tweetURL: "https://x.com/AlexReibman/status/1683010519048011777?s=20"
 ---
 
-# 2023 Recap Summer of 3 AI Hackathons
+# 2023 Recap Summer of 3 GenAI Hackathons
 
 ```
 - Vision & customer context is key
