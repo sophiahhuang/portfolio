@@ -12,7 +12,6 @@ tags:
     "Streamlit",
     "Stable Diffusion XL",
   ]
-tweetURL: "https://x.com/AlexReibman/status/1683010519048011777?s=20"
 ---
 
 # 2023 Recap Summer of 3 GenAI Hackathons

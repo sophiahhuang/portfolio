@@ -19,7 +19,7 @@ I scout emerging contemporary artists to collaborate on art projects together, o
     <th>Time</th>
 </tr>
 <tr>
-    <td>Art Research, Studio Visits, Cross-functional Production, Art Administration</td>
+    <td>Art Research, Studio Visits, Cross-functional Production, Arts Administration</td>
     <td>Exhibitions, Sales, Installations, Print Advertising, Social Media Marketing</td>
     <td>Varies</td>
 </tr>
