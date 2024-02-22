@@ -38,7 +38,6 @@ I am building on top of the high-level analysis on this popular [dataset](http:/
 ## Summary and Descriptive Statistics
 
 ![CocoaCode1](/images/CocoaCode1.webp)
-
 - Total of 1692 chocolate bars
 - "Ingredients" has 87 missing values
 - Covers span of 17 years from the year 2006 to 2023
@@ -66,7 +65,6 @@ Notably, some entries lack information on ingredients or specific bean origins, 
 ### 1. Higher cocoa content does not always equate to higher ratings
 
 ![CocoaCode3](/images/CocoaCode3.webp)
-
 - Correlation Coefficient (-0.142): This indicates a slight, negative relationship between cocoa percentage and taste ratings. More cocoa doesn't guarantee a better taste. The effect is quite minimal.
 - P-Value (1.93×10^(-13)): This extremely small number confirms that our findings are statistically significant, meaning the slight relationship we observed isn't due to random chance.
 - A large number of chocolates have cocoa percentages around 70%, indicating a popular choice for chocolate makers. The positive skewness indicates that fewer chocolates have very high cocoa content.
@@ -74,10 +72,9 @@ Notably, some entries lack information on ingredients or specific bean origins, 
 ### 2. 70% +/-2 is optimal amount of cocoa percent over time
 
 ![CocoaCode4](/images/CocoaCode4.webp)
-
 - Over time, the average cocoa percentage in chocolates does not show a significant shift for every 6 years increment, staying around 70%.
-  ![CocoaCode5](/images/CocoaCode5.webp)
-  ![CocoaCode6](/images/CocoaCode6.webp)
+![CocoaCode5](/images/CocoaCode5.webp)
+![CocoaCode6](/images/CocoaCode6.webp)
 - The box plots indicate that while there is some variation in cocoa percentages, the overall amount remains steady at 71.6%.
 
 ## What Does This Mean for Chocolate Lovers?
@@ -96,8 +93,12 @@ For those crafting chocolate or those who love indulging in it, here's the takea
 - Findings: The Pearson correlation coefficient of approximately -0.142, along with a statistically significant p-value (1.93×10^13), indicates a weak but statistically significant negative relationship between cocoa percentage and chocolate rating. This suggests that higher cocoa percentages are slightly associated with lower ratings, but the overall effect is very small.
 
 - Interpretation: While the statistical analysis reveals a significant relationship, the practical impact of cocoa percentage on chocolate rating appears to be minimal. This implies that factors other than cocoa percentage are more influential in determining the overall rating of chocolate bars.
+
 - Recommendation: Stakeholders, such as chocolatiers and chocolate manufacturers, should consider other attributes alongside cocoa percentage when aiming to improve the quality and appeal of their products. These may include the origin of cocoa beans, processing techniques, additional ingredients, and flavor profiles. Consumer preferences and market trends should also be considered to enhance product ratings and satisfaction. This balanced approach, taking into account both statistical significance and practical relevance, will help in making informed decisions that align with consumer expectations and industry standards.
 
 ## Next: Impact of Geography
 
-What is the role of bean source and chocolate maker on rating? How about flavor?
+Preview on the role of bean source and chocolate maker on rating.
+
+![CocoaCode8](/images/CocoaCode8.webp)
+![CocoaCode9](/images/CocoaCode9.webp)
