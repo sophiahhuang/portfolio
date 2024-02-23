@@ -17,6 +17,7 @@ tags:
 # Cracking the Cocoa Code with Data (Part 1): Does More Cocoa Mean Better Taste?
 
 ## TL;DR
+
 ```
 - Weak Link: More cocoa in chocolate doesn’t strongly affect how much people like it.
 - Significant but Small: The connection we found is real but really tiny.
@@ -30,6 +31,7 @@ A few of my friends belong to the exclusively dark chocolate camp. I always pond
 I am building on top of the high-level analysis on this popular [dataset](http://flavorsofcacao.com/index.html) conducted by [Lisa Chen](https://medium.com/swlh/willy-wonka-and-the-data-driven-chocolate-factory-c08d10c7dbc0) and [Alexey Samoylov](https://www.kaggle.com/code/tibhar940/chocolate-bar-ratings-python-eda-dataviz) by going both deeper into each variable and broader on the relationships between variables. This is the first part of many to come on Cracking the Cocoa Code with Data. My Follow along [link to my data analysis and visualization on colab](https://colab.research.google.com/drive/1bgMQqa-S2JRsYWFZ3zsYrpfa00E4mPb_#scrollTo=cMvmcGUITZOR)
 
 ## What You Will Learn
+
 - Guide exploratory data analysis (EDA) with curiosity and a microscopic lens
 - Structure the approach to encourage big picture thinking and avoid rabbit holes
 - Define outline or deliverables before you start
@@ -38,6 +40,7 @@ I am building on top of the high-level analysis on this popular [dataset](http:/
 ## Summary and Descriptive Statistics
 
 ![CocoaCode1](/images/CocoaCode1.webp)
+
 - Total of 1692 chocolate bars
 - "Ingredients" has 87 missing values
 - Covers span of 17 years from the year 2006 to 2023
@@ -46,7 +49,7 @@ I am building on top of the high-level analysis on this popular [dataset](http:/
 
 ## Missing Data, Distribution, and Potential Bias
 
-Notably, some entries lack information on ingredients or specific bean origins, which could limit our analysis. The overall distribution of data points across countries and cocoa percentages may be poentially biased. Some regions have more data than others. 
+Notably, some entries lack information on ingredients or specific bean origins, which could limit our analysis. The overall distribution of data points across countries and cocoa percentages may be poentially biased. Some regions have more data than others.
 
 ## Limitations and Assumptions
 
@@ -65,6 +68,7 @@ Notably, some entries lack information on ingredients or specific bean origins, 
 ### 1. Higher cocoa content does not always equate to higher ratings
 
 ![CocoaCode3](/images/CocoaCode3.webp)
+
 - Correlation Coefficient (-0.142): This indicates a slight, negative relationship between cocoa percentage and taste ratings. More cocoa doesn't guarantee a better taste. The effect is quite minimal.
 - P-Value (1.93×10^(-13)): This extremely small number confirms that our findings are statistically significant, meaning the slight relationship we observed isn't due to random chance.
 - A large number of chocolates have cocoa percentages around 70%, indicating a popular choice for chocolate makers. The positive skewness indicates that fewer chocolates have very high cocoa content.
@@ -72,9 +76,10 @@ Notably, some entries lack information on ingredients or specific bean origins, 
 ### 2. 70% +/-2 is optimal amount of cocoa percent over time
 
 ![CocoaCode4](/images/CocoaCode4.webp)
+
 - Over time, the average cocoa percentage in chocolates does not show a significant shift for every 6 years increment, staying around 70%.
-![CocoaCode5](/images/CocoaCode5.webp)
-![CocoaCode6](/images/CocoaCode6.webp)
+  ![CocoaCode5](/images/CocoaCode5.webp)
+  ![CocoaCode6](/images/CocoaCode6.webp)
 - The box plots indicate that while there is some variation in cocoa percentages, the overall amount remains steady at 71.6%.
 
 ## What Does This Mean for Chocolate Lovers?
