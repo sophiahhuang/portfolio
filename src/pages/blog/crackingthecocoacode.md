@@ -28,13 +28,13 @@ tags:
 
 A few of my friends belong to the exclusively dark chocolate camp. I always pondered whether darker, high-cocoa chocolate bars are truly superior in taste and cost more. It turns out the [Manhattan Chocolate Society](http://flavorsofcacao.com/mcs_index.html) has been keeping records of their tastings since June 2007. They compare and discuss the qualities of fine chocolate to inspire higher quality product.
 
-I am building on top of the high-level analysis on this popular [dataset](http://flavorsofcacao.com/index.html) conducted by [Lisa Chen](https://medium.com/swlh/willy-wonka-and-the-data-driven-chocolate-factory-c08d10c7dbc0) and [Alexey Samoylov](https://www.kaggle.com/code/tibhar940/chocolate-bar-ratings-python-eda-dataviz) by going both deeper into each variable and broader on the relationships between variables. This is the first part of many to come on Cracking the Cocoa Code with Data. My Follow along [link to my data analysis and visualization on colab](https://colab.research.google.com/drive/1bgMQqa-S2JRsYWFZ3zsYrpfa00E4mPb_#scrollTo=cMvmcGUITZOR)
+I am building on top of the high-level analysis on this popular [dataset](http://flavorsofcacao.com/index.html) conducted by [Lisa Chen](https://medium.com/swlh/willy-wonka-and-the-data-driven-chocolate-factory-c08d10c7dbc0) and [Alexey Samoylov](https://www.kaggle.com/code/tibhar940/chocolate-bar-ratings-python-eda-dataviz) by going both deeper into each variable and broader on the relationships between variables. This is the first part of many to come on Cracking the Cocoa Code with Data. Follow along [link to my data analysis and visualization on colab](https://colab.research.google.com/drive/1bgMQqa-S2JRsYWFZ3zsYrpfa00E4mPb_#scrollTo=cMvmcGUITZOR)
 
 ## What You Will Learn
 
 - Guide exploratory data analysis (EDA) with curiosity and a microscopic lens
 - Structure the approach to encourage big picture thinking and avoid rabbit holes
-- Define outline or deliverables before you start
+- Define deliverables before you start
 - Tap into your intuition to see beyond the data
 
 ## Summary and Descriptive Statistics
@@ -60,7 +60,7 @@ Notably, some entries lack information on ingredients or specific bean origins, 
 ## Experiment
 
 - Objective: To determine if there's a link between cocoa content and taste ratings in chocolate.
-- Method: We used the Pearson correlation coefficient, a statistical tool that measures the strength and direction of a relationship between two variables. Data visualization
+- Method: We used the Pearson correlation coefficient, a statistical tool that measures the strength and direction of a relationship between two variables.
 - Data Source: [Manhattan Chocolate Society](http://flavorsofcacao.com/mcs_index.html)
 
 ## What We Found
@@ -78,8 +78,8 @@ Notably, some entries lack information on ingredients or specific bean origins, 
 ![CocoaCode4](/images/CocoaCode4.webp)
 
 - Over time, the average cocoa percentage in chocolates does not show a significant shift for every 6 years increment, staying around 70%.
-  ![CocoaCode5](/images/CocoaCode5.webp)
-  ![CocoaCode6](/images/CocoaCode6.webp)
+![CocoaCode5](/images/CocoaCode5.webp)
+![CocoaCode6](/images/CocoaCode6.webp)
 - The box plots indicate that while there is some variation in cocoa percentages, the overall amount remains steady at 71.6%.
 
 ## What Does This Mean for Chocolate Lovers?
@@ -99,11 +99,11 @@ For those crafting chocolate or those who love indulging in it, here's the takea
 
 - Interpretation: While the statistical analysis reveals a significant relationship, the practical impact of cocoa percentage on chocolate rating appears to be minimal. This implies that factors other than cocoa percentage are more influential in determining the overall rating of chocolate bars.
 
-- Recommendation: Stakeholders, such as chocolatiers and chocolate manufacturers, should consider other attributes alongside cocoa percentage when aiming to improve the quality and appeal of their products. These may include the origin of cocoa beans, processing techniques, additional ingredients, and flavor profiles. Consumer preferences and market trends should also be considered to enhance product ratings and satisfaction. This balanced approach, taking into account both statistical significance and practical relevance, will help in making informed decisions that align with consumer expectations and industry standards.
+- Recommendation: Stakeholders, such as chocolatiers and chocolate manufacturers, should consider other attributes alongside cocoa percentage when aiming to improve the quality and consumer appeal of their products. These may include the origin of cocoa beans, processing techniques, additional ingredients, and flavor profiles. We will dive into the impact of geography on chocolate next.
 
 ## Next: Impact of Geography
 
-Preview on the role of bean source and chocolate maker on rating.
+A sneak peek.
 
-![CocoaCode8](/images/CocoaCode8.webp)
 ![CocoaCode9](/images/CocoaCode9.webp)
+![CocoaCode8](/images/CocoaCode8.webp)
