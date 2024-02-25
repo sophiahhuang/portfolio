@@ -1,7 +1,7 @@
 ---
 layout: ../../layout/MarkdownLayout.astro
 title: "Cracking the Cocoa Code with Data (Part 1)"
-description: "Does More Cocoa Mean Better Taste?"
+description: "Does More Cocoa Mean Better Taste? The short answer is no."
 pubDate: 2024-02-19
 tags:
   [
@@ -103,7 +103,7 @@ For those crafting chocolate or those who love indulging in it, here's the takea
 
 ## Next: Impact of Geography
 
-A sneak peek.
+A sneak peek by continent and countries.
 
 ![CocoaCode9](/images/CocoaCode9.webp)
 ![CocoaCode8](/images/CocoaCode8.webp)
