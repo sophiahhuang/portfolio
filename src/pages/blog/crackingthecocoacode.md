@@ -78,8 +78,8 @@ Notably, some entries lack information on ingredients or specific bean origins, 
 ![CocoaCode4](/images/CocoaCode4.webp)
 
 - Over time, the average cocoa percentage in chocolates does not show a significant shift for every 6 years increment, staying around 70%.
-![CocoaCode5](/images/CocoaCode5.webp)
-![CocoaCode6](/images/CocoaCode6.webp)
+  ![CocoaCode5](/images/CocoaCode5.webp)
+  ![CocoaCode6](/images/CocoaCode6.webp)
 - The box plots indicate that while there is some variation in cocoa percentages, the overall amount remains steady at 71.6%.
 
 ## What Does This Mean for Chocolate Lovers?
