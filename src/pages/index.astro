@@ -16,7 +16,7 @@ const lastSixPosts = allPosts
     if (dateA > dateB) return -1;
     return 0;
   })
-  .slice(0, 6);
+  .slice(0, 5);
 ---
 
 <Layout
@@ -28,7 +28,7 @@ const lastSixPosts = allPosts
     <MainIntro />
     <FeaturedBlogsContainer>
       {
-        lastSixPosts.map((p) => (
+        lastFivePosts.map((p) => (
           <FeaturedBlogPost
             date={new Date(p.frontmatter.pubDate).toLocaleDateString("en-US", {
               month: "long",
