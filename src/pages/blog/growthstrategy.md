@@ -1,7 +1,7 @@
 ---
 layout: ../../layout/MarkdownLayout.astro
-title: Growth Strategy for Interview Prep: B2C, SaaS, and Social Media
-description: ""
+title: Growth Strategy for Interview Prep
+description: "Artifacts for B2C Marketplace, SaaS, and Social Media Business"
 pubDate: 2024-03-28
 tags: ["growthstrategy", "b2c", "iOS app", "social", "community", "creator", "SaaS", "marketplace", "consumerKPI"]
 ---
@@ -17,5 +17,3 @@ tags: ["growthstrategy", "b2c", "iOS app", "social", "community", "creator", "Sa
 - [Seed Stage B2C Marketplace Startup](https://www.figma.com/community/file/1352059363321692370/b2c-app-growth-strategy-with-top-3-consumer-kpis-to-optimize)
 
 💬 Thoughts or feedback? Contact me via email or X.
-
-
