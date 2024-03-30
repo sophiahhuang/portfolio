@@ -2,11 +2,11 @@
 layout: ../../layout/MarkdownLayout.astro
 title: Growth Strategy for Interview Prep: B2C, SaaS, and Social Media
 description: ""
-pubDate: 2023-03-28
-tags: ["growthstrategy", "b2c", "app", "social", "community", "creator", "SaaS", "consumerKPI"]
+pubDate: 2024-03-28
+tags: ["growthstrategy", "b2c", "iOS app", "social", "community", "creator", "SaaS", "marketplace", "consumerKPI"]
 ---
 
-# Artifacts for 3 Different Types of Growth Strategy Interview Prep
+# Interview Prep Artifacts for 3 Different Types of Growth Strategy
 
 🙋🏻‍♀️ Hi! I've moved into San Francisco Jan 2024.
 
