@@ -28,7 +28,7 @@ const lastSixPosts = allPosts
     <MainIntro />
     <FeaturedBlogsContainer>
       {
-        lastFivePosts.map((p) => (
+        lastSixPosts.map((p) => (
           <FeaturedBlogPost
             date={new Date(p.frontmatter.pubDate).toLocaleDateString("en-US", {
               month: "long",

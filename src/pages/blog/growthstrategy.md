@@ -3,7 +3,18 @@ layout: ../../layout/MarkdownLayout.astro
 title: Growth Strategy for Interview Prep
 description: "Artifacts for B2C Marketplace, SaaS, and Social Media Business"
 pubDate: 2024-03-28
-tags: ["growthstrategy", "b2c", "iOS app", "social", "community", "creator", "SaaS", "marketplace", "consumerKPI"]
+tags:
+  [
+    "growthstrategy",
+    "b2c",
+    "iOS app",
+    "social",
+    "community",
+    "creator",
+    "SaaS",
+    "marketplace",
+    "consumerKPI",
+  ]
 ---
 
 # Interview Prep Artifacts for 3 Different Types of Growth Strategy
